@@ -2,10 +2,10 @@
 version: '3.8'
 
 services:
-  app:
+  ufrn-ppgti0006-codes:
     build:
       context: .
-    image: alvarofpp/app
-    container_name: app
+    image: alvarofpp/ufrn-ppgti0006-codes
+    container_name: ufrn-ppgti0006-codes
     volumes:
       - .:/app

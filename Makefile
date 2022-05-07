@@ -1,5 +1,5 @@
 # Variables
-APP_NAME=app
+APP_NAME=ufrn-ppgti0006-codes
 ROOT=$(shell pwd)
 
 ## Lint
