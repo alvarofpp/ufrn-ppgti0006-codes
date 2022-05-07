@@ -1,11 +1,7 @@
-# Boilerplate for Python projects
+# PPGTI0006 - LeetCode solutions
 
-In this boilerplate you have:
+LeetCode solutions of Data Structure and Algorithms (PPGTI0006) course of Master's degree in
+Information Technology from the Federal University of Rio Grande do Norte (UFRN),
+with [Leonardo Cesar Teonacio Bezerra][professor] as professor.
 
-- Python 3.10-slim;
-- Docker and Docker Compose;
-- Linter workflow.
-
-**TO DO**:
-
-- Tests and coverage (example, command and CI).
+[professor]: https://github.com/leobezerra
